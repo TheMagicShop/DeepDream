@@ -3,6 +3,13 @@
 DeepDream is a Deep Learning technique that gives neaural networks ability to dream "not literally", it's an artistic image-modification technique, it generates pictures similar to the visual artifacts induced by the human's brain under psychedelic circumstances.
 
 ![alt text](https://github.com/TheMagicShop/DeepDream/blob/main/Examples/ex_default_pic1.png)
+<p align="center">
+  <img 
+    width="600"
+    height="375"
+    src="https://github.com/TheMagicShop/DeepDream/blob/main/Examples/ex_default_gif.gif"
+  >
+</p>
 
 
 
